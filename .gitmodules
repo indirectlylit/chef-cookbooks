@@ -21,7 +21,7 @@
 	url = git://github.com/ctrabold/chef-redis.git
 [submodule "python"]
 	path = python
-	url = git://github.com/cookbooks/python.git
+	url = git://github.com/opscode-cookbooks/python.git
 [submodule "mysql"]
 	path = mysql
 	url = git://github.com/opscode-cookbooks/mysql.git
