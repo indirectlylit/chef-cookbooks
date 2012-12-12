@@ -28,3 +28,6 @@
 [submodule "couchdb"]
 	path = couchdb
 	url = git://github.com/opscode-cookbooks/couchdb.git
+[submodule "erlang"]
+	path = erlang
+	url = git://github.com/opscode-cookbooks/erlang.git
