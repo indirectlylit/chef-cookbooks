@@ -1,0 +1,27 @@
+[submodule "apt"]
+	path = apt
+	url = git://github.com/opscode-cookbooks/apt.git
+[submodule "build-essential"]
+	path = build-essential
+	url = git://github.com/opscode-cookbooks/build-essential.git
+[submodule "git"]
+	path = git
+	url = git://github.com/opscode-cookbooks/git.git
+[submodule "vim"]
+	path = vim
+	url = git://github.com/opscode-cookbooks/vim.git
+[submodule "curl"]
+	path = curl
+	url = git://github.com/phlipper/chef-curl
+[submodule "nodejs"]
+	path = nodejs
+	url = git://github.com/mdxp/nodejs-cookbook
+[submodule "redis"]
+	path = redis
+	url = git://github.com/ctrabold/chef-redis.git
+[submodule "python"]
+	path = python
+	url = git://github.com/cookbooks/python.git
+[submodule "mysql"]
+	path = mysql
+	url = git://github.com/opscode-cookbooks/mysql.git
